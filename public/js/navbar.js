@@ -1,6 +1,5 @@
 // function for category----------------------------------****************--------------------
 function addFunctionalityToNavbar() {
-
     let cat = document.getElementById("cat")
     var firstdiv = document.getElementById("firstdiv")
     var secdiv = document.getElementById("secdiv")
